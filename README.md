@@ -19,11 +19,6 @@ agents, and applied ML, with an eye on DevOps as well.
 - ✉️ Reach me at vaishali.seraje@gmail.com
 
 </td>
-<td width="40%">
-
-<img src="PASTE_YOUR_DROPPED_IMAGE_URL_HERE" width="320" />
-
-</td>
 </tr>
 </table>
 

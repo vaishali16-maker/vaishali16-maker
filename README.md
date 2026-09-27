@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Vaishali!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FPython%20Developer%20%F0%9F%8E%80&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=200&section=header&text=Hi,%20I'm%20Vaishali!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FPython%20Developer&descAlignY=55&descSize=18" />
 
 </div>
 
-### 🌸 About Me
+### 🤎 About Me
 
 I completed my MCA in 2026 and I'm now focused on AI engineering — building 
 production-style projects around retrieval-augmented generation, autonomous 
-agents, and applied ML, with an eye on DevOps as well. 💗
+agents, and applied ML, with an eye on DevOps as well.
 
 - 🔭 Currently building AI agents & RAG pipelines
 - 🌱 Also learning DevOps on the side
-- 💌 Reach me at vaishali.seraje@gmail.com
+- ✉️ Reach me at vaishali.seraje@gmail.com
 
 <br>
 
-### 🎀 Projects
+### ✨ Projects
 
 - **[Scholar-Research-Agent](https://github.com/vaishali16-maker/Scholar-Research-Agent)** — 
   AI research agent (built for the SerpApi India Hackathon) that turns a 
@@ -45,18 +45,18 @@ agents, and applied ML, with an eye on DevOps as well. 💗
 
 <br>
 
-### 💅 Tech Stack
+### 🤍 Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FFC0CB?style=for-the-badge&logo=python&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-FADADD?style=for-the-badge&logo=php&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-F8C8DC?style=for-the-badge&logo=fastapi&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-FFD1DC?style=for-the-badge&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-F4C2C2?style=for-the-badge&logo=docker&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FCE4EC?style=for-the-badge&logo=streamlit&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq-F9CEDF?style=for-the-badge&logoColor=black)
-![SerpApi](https://img.shields.io/badge/SerpApi-F7D6E0?style=for-the-badge&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3d2b1f?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-5c4033?style=for-the-badge&logo=php&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-6f4e37?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-8b5e3c?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-4b3621?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-7b5e57?style=for-the-badge&logo=streamlit&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-6e4b3a?style=for-the-badge&logoColor=white)
+![SerpApi](https://img.shields.io/badge/SerpApi-5a4634?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -66,9 +66,9 @@ agents, and applied ML, with an eye on DevOps as well. 💗
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=googlechrome&logoColor=black)](https://vaishali-ml-nswywezr.manus.space/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FADADD?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/vaishali16204)
-[![Gmail](https://img.shields.io/badge/Email-F8C8DC?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vaishali.seraje@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3d2b1f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vaishali-ml-nswywezr.manus.space/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5c4033?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishali16204)
+[![Gmail](https://img.shields.io/badge/Email-6f4e37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishali.seraje@gmail.com)
 
 </div>
 
@@ -76,8 +76,8 @@ agents, and applied ML, with an eye on DevOps as well. 💗
 
 <div align="center">
 
-![Vaishali's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishali16-maker&show_icons=true&title_color=ff69b4&icon_color=ff85c0&text_color=6b3f4d&bg_color=fff0f5&border_color=ffb6c1&hide_border=false)
+![Vaishali's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishali16-maker&show_icons=true&title_color=8b5e3c&icon_color=6f4e37&text_color=3d2b1f&bg_color=faf6f2&border_color=d8c3a5)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=100&section=footer" />

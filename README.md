@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=200&section=header&text=Hi,%20I'm%20Vaishali!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FPython%20Developer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c1810,50:6f4e37,100:c8a97e&height=200&section=header&text=Hi,%20I'm%20Vaishali!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FPython%20Developer&descAlignY=55&descSize=18" />
 
 </div>
 
@@ -80,4 +80,4 @@ agents, and applied ML, with an eye on DevOps as well.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c1810,50:6f4e37,100:c8a97e&height=100&section=footer" />

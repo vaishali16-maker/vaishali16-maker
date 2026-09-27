@@ -1,12 +1,22 @@
-# Hi, I'm Vaishali 👋
+<div align="center">
 
-AI/Python Developer | Building LLM-powered agents & RAG pipelines
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Vaishali!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FPython%20Developer%20%F0%9F%8E%80&descAlignY=55&descSize=18" />
+
+</div>
+
+### 🌸 About Me
 
 I completed my MCA in 2026 and I'm now focused on AI engineering — building 
 production-style projects around retrieval-augmented generation, autonomous 
-agents, and applied ML, with an eye on DevOps as well.
+agents, and applied ML, with an eye on DevOps as well. 💗
 
-## 🚀 Projects
+- 🔭 Currently building AI agents & RAG pipelines
+- 🌱 Also learning DevOps on the side
+- 💌 Reach me at vaishali.seraje@gmail.com
+
+<br>
+
+### 🎀 Projects
 
 - **[Scholar-Research-Agent](https://github.com/vaishali16-maker/Scholar-Research-Agent)** — 
   AI research agent (built for the SerpApi India Hackathon) that turns a 
@@ -33,21 +43,41 @@ agents, and applied ML, with an eye on DevOps as well.
 - **[hostel-management-system](https://github.com/vaishali16-maker/hostel-management-system)** — 
   Hostel management system built in PHP, handling room booking for residents.
 
-## 🛠️ Tech Stack
+<br>
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
-![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit)
-![Groq](https://img.shields.io/badge/-Groq-black?style=flat-square)
-![SerpApi](https://img.shields.io/badge/-SerpApi-black?style=flat-square)
+### 💅 Tech Stack
 
-## 📫 Reach me
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=googlechrome)](https://vaishali-ml-nswywezr.manus.space/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/vaishali16204)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:vaishali.seraje@gmail.com)
+![Python](https://img.shields.io/badge/Python-FFC0CB?style=for-the-badge&logo=python&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-FADADD?style=for-the-badge&logo=php&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-F8C8DC?style=for-the-badge&logo=fastapi&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-FFD1DC?style=for-the-badge&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-F4C2C2?style=for-the-badge&logo=docker&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FCE4EC?style=for-the-badge&logo=streamlit&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F9CEDF?style=for-the-badge&logoColor=black)
+![SerpApi](https://img.shields.io/badge/SerpApi-F7D6E0?style=for-the-badge&logoColor=black)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishali16-maker&show_icons=true&theme=default)
+</div>
+
+<br>
+
+### 💌 Reach Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=googlechrome&logoColor=black)](https://vaishali-ml-nswywezr.manus.space/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FADADD?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/vaishali16204)
+[![Gmail](https://img.shields.io/badge/Email-F8C8DC?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vaishali.seraje@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Vaishali's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishali16-maker&show_icons=true&title_color=ff69b4&icon_color=ff85c0&text_color=6b3f4d&bg_color=fff0f5&border_color=ffb6c1&hide_border=false)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
